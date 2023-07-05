@@ -1,0 +1,4 @@
+1st yellow - 37
+2nd red - 35
+3rd yellow - 33
+init button - 31
